@@ -31,7 +31,7 @@ Currently exploring **AI/ML**, **NLP**, **Deep Learning**, and **Generative AI**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,mysql,nextjs,react,tailwind,html,css,figma,github,git,vscode,aws" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,mysql,php,nextjs,react,tailwind,html,css,figma,github,git,vscode,aws,firebase,gcp" />
 
 <br><br>
 
@@ -41,6 +41,10 @@ Currently exploring **AI/ML**, **NLP**, **Deep Learning**, and **Generative AI**
 <img src="https://img.shields.io/badge/RAG-FAE8FF?style=for-the-badge&logo=googlegemini&logoColor=A855F7" />
 <img src="https://img.shields.io/badge/Streamlit-FFE4E6?style=for-the-badge&logo=streamlit&logoColor=E11D48" />
 <img src="https://img.shields.io/badge/Google%20Colab-FEF9C3?style=for-the-badge&logo=googlecolab&logoColor=F59E0B" />
+<img src="https://img.shields.io/badge/Canva-F0FDFA?style=for-the-badge&logo=canva&logoColor=00C4CC" />
+<img src="https://img.shields.io/badge/phpMyAdmin-EFF6FF?style=for-the-badge&logo=phpmyadmin&logoColor=2563EB" />
+<img src="https://img.shields.io/badge/Kiro-F3E8FF?style=for-the-badge&logo=amazonaws&logoColor=9333EA" />
+<img src="https://img.shields.io/badge/Antigravity-F5F3FF?style=for-the-badge&logo=google&logoColor=7C3AED" />
 
 </div>
 
@@ -74,5 +78,18 @@ RAG Systems    ███████░░░
 <img src="sparkle-divider.svg" width="75%" />
 
 ### 🌷 Always open to collaborate, learn, and build something fun.
+
+<br>
+
+<a href="YOUR_LINKEDIN_URL_HERE">
+  <img src="https://img.shields.io/badge/LinkedIn-F0F9FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="mailto:arifahmhrzn.work@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-FFF1F2?style=for-the-badge&logo=gmail&logoColor=E11D48" />
+</a>
+<a href="https://medium.com/@arifahmhrzn.work">
+  <img src="https://img.shields.io/badge/Medium-F5F5F4?style=for-the-badge&logo=medium&logoColor=111827" />
+</a>
+<img src="https://img.shields.io/badge/Portfolio-In%20the%20making-FDF2F8?style=for-the-badge&logo=vercel&logoColor=DB2777" />
 
 </div>

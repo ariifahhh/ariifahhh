@@ -5,7 +5,7 @@
 ### Data Science @ UKM · AI/ML · NLP · GenAI  
 #### Building thoughtful tech with data, design & a little whimsy ✨
 
-<img src=".sparkle-divider.svg" width="75%" />
+<img src="sparkle-divider.svg" width="75%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F9A8D4&center=true&vCenter=true&width=650&lines=Data+Science+Student+%40+UKM;Exploring+AI%2C+ML%2C+NLP+%26+GenAI;Open+to+Internship+%E2%80%93+Aug+2026+Intake" />
 
@@ -74,7 +74,7 @@ RAG Systems    ███████░░░
 
 <div align="center">
 
-<img src="./assets/sparkle-divider.svg" width="65%" />
+<img src="sparkle-divider.svg" width="75%" />
 
 ### 🌷 Always open to collaborate, learn, and build something fun.
 

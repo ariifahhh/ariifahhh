@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey! I'm Mas Arifah 👋
 
-<!--
-**ariifahhh/ariifahhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇲🇾 Data Science student @ UKM  
+💻 Building cool stuff with AI, ML & data  
+🧠 Exploring NLP, Deep Learning & GenAI  
 
-Here are some ideas to get you started:
+🎀 I love making things cute, aesthetic & functional  
+✨ Turning messy data into something pretty & useful  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Hackathon enthusiast + research assistant  
+📌 Currently looking for internship opportunities (Aug 2026 intake)  
+
+🎧 Powered by K-pop, late nights & iced coffee  
+💖 Always open to collaborate, learn, and build something fun

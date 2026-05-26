@@ -1,0 +1,36 @@
+<svg width="900" height="80" viewBox="0 0 900 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .sparkle {
+      animation: twinkle 1.8s infinite ease-in-out;
+      transform-origin: center;
+    }
+
+    .sparkle:nth-child(2) { animation-delay: .2s; }
+    .sparkle:nth-child(3) { animation-delay: .4s; }
+    .sparkle:nth-child(4) { animation-delay: .6s; }
+    .sparkle:nth-child(5) { animation-delay: .8s; }
+
+    @keyframes twinkle {
+      0%, 100% { opacity: .25; transform: scale(.8); }
+      50% { opacity: 1; transform: scale(1.15); }
+    }
+
+    .line {
+      stroke-dasharray: 10 10;
+      animation: move 8s linear infinite;
+    }
+
+    @keyframes move {
+      from { stroke-dashoffset: 0; }
+      to { stroke-dashoffset: -200; }
+    }
+  </style>
+
+  <path class="line" d="M80 40 C190 10, 290 70, 400 40 S620 10, 740 40 S840 70, 880 40" stroke="#D8B4FE" stroke-width="2" opacity="0.75"></path>
+
+  <text class="sparkle" x="55" y="45" font-size="24" fill="#F9A8D4">✦</text>
+  <text class="sparkle" x="210" y="28" font-size="18" fill="#F0ABFC">✧</text>
+  <text class="sparkle" x="440" y="52" font-size="22" fill="#F9A8D4">𐙚</text>
+  <text class="sparkle" x="665" y="30" font-size="20" fill="#F0ABFC">✦</text>
+  <text class="sparkle" x="820" y="50" font-size="18" fill="#F9A8D4">✧</text>
+</svg>

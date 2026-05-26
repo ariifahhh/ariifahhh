@@ -51,11 +51,8 @@ Currently exploring **AI/ML**, **NLP**, **Deep Learning**, and **Generative AI**
 | Project | Focus |
 |---|---|
 | **JomKecek** | Kelantan dialect chatbot using RAG for translation & tourism info |
-| **SafeDrive AI** | Smartphone-based AI co-driver for drowsiness detection |
-| **GoGuard** | Real-time multi-layer scam intervention system |
-| **The Power Pulse** | Electricity demand, supply efficiency & system resilience analysis |
-| **ECG Brugada Detection** | Interpretable ECG-based detection pipeline using ML |
-| **AI Habit Tracker** | Productivity app with AI companion responses |
+| **Dump2Done** | Productivity app with AI companion responses |
+| **TrackHire** | Career application tracker for internships, fresh grads, follow-ups, interviews, offers & company comparison |
 
 ---
 

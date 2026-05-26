@@ -81,7 +81,7 @@ RAG Systems    ███████░░░
 
 <br>
 
-<a href="www.linkedin.com/in/mas-arifah-mahrizan-653671357">
+<a href="https://www.linkedin.com/in/mas-arifah-mahrizan-653671357/">
   <img src="https://img.shields.io/badge/LinkedIn-F0F9FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 <a href="mailto:arifahmhrzn.work@gmail.com">
